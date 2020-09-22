@@ -1,0 +1,49 @@
+<keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="ChangesView.Diff" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorContextInfo" />
+  <action id="EmojiAndSymbols">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowReformatFileDialog" />
+  <action id="SurroundWithLiveTemplate">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+</keymap>

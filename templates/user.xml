@@ -1,0 +1,18 @@
+<templateSet group="user">
+  <template name="fun" value="function() {&#10;   &#10;}" description="create lambda function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
+  <template name="rg" value="Route::get('')" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="au" value="    auth()-&gt;user()" description="auth user" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
+</templateSet>
