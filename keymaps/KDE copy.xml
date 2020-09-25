@@ -16,6 +16,9 @@
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="EditorContextInfo" />
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="EmojiAndSymbols">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
