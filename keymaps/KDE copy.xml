@@ -44,6 +44,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="back_slash" />
+  </action>
   <action id="SendEOF" />
   <action id="ShowReformatFileDialog" />
   <action id="SurroundWithLiveTemplate">
