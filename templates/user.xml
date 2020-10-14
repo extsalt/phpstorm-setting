@@ -31,4 +31,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="@sf" value="$table-&gt;softDeletes();" description="Add soft delete" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
 </templateSet>
