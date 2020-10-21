@@ -2,7 +2,7 @@
   <tool name="psalm" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/projects/pinv/vendor/bin/psalm.phar" />
-      <option name="PARAMETERS" />
+      <option name="PARAMETERS" value="--show-info=true" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/pinv/vendor/bin" />
     </exec>
   </tool>
