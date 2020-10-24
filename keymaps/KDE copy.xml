@@ -2,6 +2,7 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt s" />
@@ -18,9 +19,6 @@
   <action id="EditorContextInfo" />
   <action id="EditorMatchBrace">
     <keyboard-shortcut first-keystroke="alt e" />
-  </action>
-  <action id="EmojiAndSymbols">
-    <keyboard-shortcut first-keystroke="alt 5" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder">
@@ -43,6 +41,9 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="alt 5" />
   </action>
   <action id="SendEOF" />
   <action id="ShowReformatFileDialog" />
