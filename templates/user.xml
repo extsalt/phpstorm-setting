@@ -42,7 +42,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="jb" value="justify-between" toReformat="true" toShortenFQNames="true">
+  <template name="jb" value="justify-between" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="ES6_CLASS" value="false" />
@@ -55,7 +55,7 @@
       <option name="JS_STATEMENT" value="false" />
     </context>
   </template>
-  <template name="ic" value="items-center" toReformat="true" toShortenFQNames="true">
+  <template name="ic" value="items-center" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="ES6_CLASS" value="false" />
