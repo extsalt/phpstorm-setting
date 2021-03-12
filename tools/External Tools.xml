@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Production" description="Push to production" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="git" />
+      <option name="PARAMETERS" value="push production master" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/webmeds-web" />
+    </exec>
+  </tool>
+</toolSet>
