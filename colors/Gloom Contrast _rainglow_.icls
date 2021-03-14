@@ -4,7 +4,7 @@
     <property name="created">2017-12-13T12:00:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2021-03-10T11:46:32</property>
+    <property name="modified">2021-03-14T08:51:54</property>
     <property name="originalScheme">Gloom Contrast</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -16,7 +16,7 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Operator SSm Medium" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
@@ -602,13 +602,11 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ff5d38" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="4f6e64" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_BRACES">
@@ -644,7 +642,6 @@
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="4f6e64" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
@@ -656,7 +653,7 @@
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="4f6e64" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -713,13 +710,11 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="26a6a6" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="4f6e64" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -765,7 +760,6 @@
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="d8ebe5" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_METHOD">
@@ -1204,7 +1198,6 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="ff5d38" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -1297,6 +1290,26 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JAVA.IMPORT_PACKAGE">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="JAVA.MODIFIER">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="JAVA.STATIC_FINAL">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="JAVA.THIS_SUPER">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="26a6a6" />
@@ -1309,6 +1322,18 @@
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
+      </value>
+    </option>
+    <option name="JS.EXPORTED.VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -2247,6 +2272,9 @@
         <option name="FOREGROUND" value="b6dacf" />
       </value>
     </option>
+    <option name="PHP_ALIAS_REFERENCE">
+      <value />
+    </option>
     <option name="PHP_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -2276,7 +2304,6 @@
     <option name="PHP_COMMENT">
       <value>
         <option name="FOREGROUND" value="4f6e64" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_CONCATENATION">
@@ -2290,7 +2317,6 @@
     <option name="PHP_DOC_COMMENT_ID">
       <value>
         <option name="FOREGROUND" value="4f6e64" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
@@ -2350,7 +2376,6 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="26a6a6" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
@@ -2396,7 +2421,6 @@
     <option name="PHP_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="d8ebe5" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_STATIC_METHOD">
@@ -2412,7 +2436,6 @@
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="26a6a6" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_VAR">
@@ -3401,7 +3424,6 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8eaea4" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TYPEDEF">
