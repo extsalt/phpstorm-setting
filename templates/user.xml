@@ -73,4 +73,9 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="@show" value="public function show()&#10;    {&#10;        &#10;    }" description="create show function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
