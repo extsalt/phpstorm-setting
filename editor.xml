@@ -38,6 +38,6 @@
     <option name="SHOW_NOTIFICATION_AFTER_OPTIMIZE_IMPORTS_ACTION" value="false" />
   </component>
   <component name="XmlEditorOptions">
-    <option name="tagTreeHighlightingOpacity" value="95" />
+    <option name="tagTreeHighlightingOpacity" value="30" />
   </component>
 </application>
