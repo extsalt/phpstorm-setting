@@ -4,17 +4,17 @@
     <property name="created">2017-12-13T12:00:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2021-04-04T08:40:14</property>
+    <property name="modified">2021-04-04T09:01:43</property>
     <property name="originalScheme">Gloom Contrast</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="IBM Plex Mono SemiBold" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_NAME" value="Operator Mono Bold" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Operator SSm Medium" />
@@ -149,13 +149,11 @@
     <option name="BLADE_COMMENT">
       <value>
         <option name="FOREGROUND" value="4f6e64" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="26a6a6" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BLADE_TEXT_BLOCK_BOUNDARY">
@@ -541,7 +539,6 @@
     <option name="CSS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="26a6a6" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_NAME">
