@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="git" />
       <option name="PARAMETERS" value="push production master" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/webmeds-web" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/ganes/projects/webmeds-web" />
     </exec>
   </tool>
   <tool name="phpstan" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
