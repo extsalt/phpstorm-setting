@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="d5252e74-099a-4538-b192-72454f1f1d08" name="extsalt">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
