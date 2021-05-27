@@ -4,7 +4,7 @@
     <property name="created">2017-12-13T12:00:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2021-05-27T14:37:11</property>
+    <property name="modified">2021-05-27T14:52:29</property>
     <property name="originalScheme">Gloom Contrast</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2372,7 +2372,7 @@
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="26a6a6" />
+        <option name="FOREGROUND" value="6ce7e7" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
@@ -2380,9 +2380,14 @@
         <option name="FOREGROUND" value="4f6e64" />
       </value>
     </option>
+    <option name="PHP_NAMED_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="b7ccf5" />
+      </value>
+    </option>
     <option name="PHP_NUMBER">
       <value>
-        <option name="FOREGROUND" value="bcd42a" />
+        <option name="FOREGROUND" value="e5cdff" />
       </value>
     </option>
     <option name="PHP_OPERATION_SIGN">
@@ -2427,7 +2432,7 @@
     </option>
     <option name="PHP_STRING">
       <value>
-        <option name="FOREGROUND" value="bcd42a" />
+        <option name="FOREGROUND" value="ffcdcd" />
       </value>
     </option>
     <option name="PHP_TAG">
