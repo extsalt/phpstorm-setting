@@ -4,7 +4,7 @@
     <property name="created">2017-12-13T12:00:00</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2021-05-15T06:59:54</property>
+    <property name="modified">2021-05-27T14:37:11</property>
     <property name="originalScheme">Gloom Contrast</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2332,12 +2332,12 @@
     </option>
     <option name="PHP_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ff5d38" />
+        <option name="FOREGROUND" value="b5b3b3" />
       </value>
     </option>
     <option name="PHP_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="ff5d38" />
+        <option name="FOREGROUND" value="f6d2d2" />
       </value>
     </option>
     <option name="PHP_HEREDOC_CONTENT">
@@ -2362,7 +2362,7 @@
     </option>
     <option name="PHP_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="ff5d38" />
+        <option name="FOREGROUND" value="a7a7a7" />
       </value>
     </option>
     <option name="PHP_INTERFACE">
@@ -2392,7 +2392,7 @@
     </option>
     <option name="PHP_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="bcd42a" />
+        <option name="FOREGROUND" value="b6c6e9" />
       </value>
     </option>
     <option name="PHP_PARENTHESES">
