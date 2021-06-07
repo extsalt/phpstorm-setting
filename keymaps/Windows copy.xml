@@ -2,4 +2,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
 </keymap>
