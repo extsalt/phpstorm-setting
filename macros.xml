@@ -1,0 +1,15 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="migrate:fresh">
+      <action id="ActivateTerminalToolWindow" />
+      <typing text-keycode="80:0;72:0;80:0;32:0;65:0;82:0;84:0;73:0;83:0;83:0;65:0;78:0">php&amp;#x20;artissan</typing>
+      <shortuct text="BACK_SPACE" />
+      <shortuct text="BACK_SPACE" />
+      <shortuct text="BACK_SPACE" />
+      <typing text-keycode="65:0;78:0;32:0;77:0;73:0;71:0;82:0;65:0;84:0;69:0;59:1;70:0;82:0;69:0;72:0">an&amp;#x20;migrate:freh</typing>
+      <shortuct text="BACK_SPACE" />
+      <typing text-keycode="83:0;72:0">sh</typing>
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>

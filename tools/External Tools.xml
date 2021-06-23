@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="migrate:fresh" description="php artisan migrate" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\System32\cmd.exe" />
+      <option name="PARAMETERS" value="php artisan migrate:fresh" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/france-medical" />
+    </exec>
+  </tool>
 </toolSet>
