@@ -17,7 +17,7 @@
     <exec>
       <option name="COMMAND" value="C:\Windows\System32\cmd.exe" />
       <option name="PARAMETERS" value="php artisan migrate:fresh" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/projects/france-medical" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/ganes/projects/france-medical" />
     </exec>
   </tool>
 </toolSet>
